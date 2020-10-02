@@ -1,4 +1,4 @@
-presentation = a speech or talk in which a new product, idea, or piece of work is shown and explained to an audience.
+presentation = telling about a new product
 =============
 
 Presentations and related code
